@@ -1,2 +1,3 @@
--> don't forget to change your data base info in connector.java
--> run 
+-> Don't forget to change your database info in connector.java
+
+-> run HotelReservationApp.java
